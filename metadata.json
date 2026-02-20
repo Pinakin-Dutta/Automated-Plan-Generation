@@ -1,0 +1,5 @@
+{
+  "name": "BuildRight AI Lead",
+  "description": "A holistic construction report generator that modulates plans based on geographical and climate data.",
+  "requestFramePermissions": ["geolocation"]
+}
